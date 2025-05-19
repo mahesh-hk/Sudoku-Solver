@@ -31,7 +31,7 @@ Clone the project:
 Navigate to project directory:
 
 ```bash
-  cd my-project
+  cd Sudoku-Solver
 ```
 
 Compile using:
